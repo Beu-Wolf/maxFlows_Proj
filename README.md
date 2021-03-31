@@ -1,6 +1,6 @@
 # Max Flows (April - May 2019)
 
-Made with love with [my boy <3](https://github.com/Beu-Wolf).
+Made with love with [my boy <3](https://github.com/afonsocrg).
 
 This project consists of a transportation network analysis. This network ensures merchandise transportation between several producers and one single hypermarket. Between these points, there are many warehouses (with limited space) that can store the products.
 Our goal is to find out the network capacity as well as which transport connections and warehouses must have it increased in order to maximize the network flow.
